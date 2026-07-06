@@ -1,3 +1,4 @@
+![Dinuja Ransara Banner](Gemini_Generated_Image_yreec0yreec0yree.png)
 # Hi there, I'm Dinuja Ransara 👋
 
 As a Computer Science undergraduate at NSBM Green University and President of the NFORCE Club, I bridge the gap between technical architecture and visual storytelling. I specialize in combining scalable backend systems with compelling digital design to lead projects and build impactful, user-centric experiences.
