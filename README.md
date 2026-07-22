@@ -5,7 +5,7 @@
 
   <!-- Glitch Effect & Bold Accent Header -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=26&pause=1000&color=FF6600&center=true&vCenter=true&width=900&lines=%3E+_SYSTEM_ONLINE:_DINUJA_RANSARA;%3E+_FUTURE_ENTREPRENEUR_%7C_CS_UNDERGRAD;%3E+_ARCHITECTING_BACKEND_%2B_DIGITAL_CREATION" alt="Glitch Typing" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=26&pause=1000&color=FF6600&center=true&vCenter=true&width=900&lines=%3E+SYSTEM_ONLINE:DINUJA_RANSARA;%3E+FUTURE_ENTREPRENEUR_%7C_CS_UNDERGRAD;%3E+ARCHITECTING_BACKEND_%2BDIGITAL_CREATION" alt="Glitch Typing" />
   </a>
 </div>
 
