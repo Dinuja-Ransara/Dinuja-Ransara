@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- ================= ANIMATED HEADER BANNER ================= -->
-<img src="banner-light-sweep.svg" alt="Banner" width="100%">
+<img src="assets/banner-light-sweep.svg" alt="Banner" width="100%">
 
 <br><br>
 
@@ -43,7 +43,7 @@
 ### **🎯 03 // SKILL PROFICIENCY RINGS**
 
 <div align="center">
-  <img src="skill-rings.svg" alt="Skill Rings" width="100%">
+  <img src="assets/skill-rings.svg" alt="Skill Rings" width="100%">
 </div>
 
 ---
