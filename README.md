@@ -1,42 +1,24 @@
 <div align="center">
-  <!-- Replace the URL below with your actual custom banner image link if you have one -->
-  <img src="https://via.placeholder.com/1200x250/111111/FF8C00?text=Dinuja+Ransara+|+Engineering+%2B+Design" alt="Dinuja Ransara Banner" width="100%">
-  
+  <img src="YOUR_CUSTOM_BANNER_IMAGE_URL" alt="Dinuja Ransara Banner" width="100%">
   <br>
-
-  <!-- Animated Typing SVG -->
+  <!-- TYPING SVG ANIMATION -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&pause=1000&color=FF8C00&center=true&vCenter=true&width=800&lines=Software+Engineering+Undergrad+%40+NSBM;President+of+NFORCE+Club;Founder+%26+Lead+Designer+%40+Idis+Graphix;Knowledge+Share+Bank;Bridging+Code+and+Visual+Storytelling" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=25&pause=1000&color=FF8C00&center=true&vCenter=true&width=800&lines=⚡+Dinuja+Ransara;Computer+Science+Undergrad+@+NSBM;President+of+NFORCE+Club;Founder+%26+Lead+Designer+@+Idis+Graphix;Software+Architecture+|+Digital+Creation" alt="Typing SVG" />
   </a>
-
-  <br>
-  
-  [![Portfolio](https://img.shields.io/badge/Live_Portfolio-FF8C00?style=for-the-badge&logo=vercel&logoColor=black)](https://dinuja-portfolio-nu.vercel.app/projects)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-FF8C00?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/dinuja-ransara)
 </div>
 
 ---
 
-### 🚀 About Me
+### 🚀 **About Me**
 
-I am a Computer Science undergraduate at NSBM Green University, specializing in bridging the gap between scalable backend systems and vibrant visual storytelling. I believe in breaking the frame and ditching boring templates—whether I am architecting robust software solutions, mapping out network infrastructure, or directing the creative vision at Idis Graphix. I operate as a "Knowledge Share Bank," dedicated to empowering my peers and elevating the tech community around me.
-
----
-
-### ⚡ What I Work On
-
-*   **System Architecture:** Developing a comprehensive **University Club Event & Competition Management Portal**, handling full-cycle functional requirements, cost schedules, and resource planning.
-*   **Community Leadership:** Serving as the **President of the NFORCE Club**, actively orchestrating strictly mandatory board Leadership Programs and high-impact Tech Entrepreneurship events.
-*   **Backend & Cloud Engineering:** Building and integrating scalable backend services using Java, Spring Boot, RESTful APIs, and Google Cloud Platform (Firestore/Firebase).
-*   **Networking & Cybersecurity:** Deep-diving into enterprise network architectures, TCP/IP protocol suites, advanced subnetting, and symmetric/asymmetric cryptography.
-*   **Creative Rebellion (Idis Graphix):** Leading end-to-end digital creation, from graphic design and UI/UX prototyping to orchestrating New Year-themed design and video editing competitions.
+I am a Computer Science undergraduate at NSBM Green University and the President of the NFORCE Club. I operate at the intersection of technical architecture and visual storytelling, building scalable backend systems while leading creative design projects at Idis Graphix. I focus on bridging scalable infrastructure with impactful, user-centric experiences, operating as a "Knowledge Share Bank" for my peers.
 
 ---
 
-### 🛠️ Tech Arsenal
+### 🛠️ **Tech Arsenal**
 
 <div align="center">
-  <!-- Dynamic, sleek skill icons -->
+  <!-- Use SVG icons for a cleaner, modern look -->
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,spring,gcp,firebase,linux,git,github,figma,ps,pr,ae,ai&theme=dark" />
   </a>
@@ -44,43 +26,60 @@ I am a Computer Science undergraduate at NSBM Green University, specializing in 
 
 ---
 
-### 📈 GitHub Pro Activity
+### Featured Missions
 
 <div align="center">
-  <!-- Dynamic Trophies (Animated on hover/load) -->
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=your-github-username&theme=radical&column=6&margin-w=15&margin-h=15&no-frame=true&no-bg=true&title_color=FF8C00" alt="Dinuja Trophies" />
+  <!-- Dynamic cards that can link to specific project repos/demos -->
+  <a href="YOUR_CLUB_PORTAL_REPO_URL">
+    <img src="https://img.shields.io/badge/PROJECT-University_Club_Event_Portal-FF8C00?style=for-the-badge&logo=github&logoColor=black" />
   </a>
-</div>
-
-<br>
-
-<div align="center">
-  <!-- Real-time Streak Stats with Custom Orange Theme -->
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img src="https://streak-stats.demolab.com?user=your-github-username&theme=dark&hide_border=true&ring=FF8C00&fire=FF8C00&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=FF8C00&sideLabels=FF8C00&dates=aaaaaa" alt="GitHub Streak" />
+  <a href="YOUR_CLUB_PORTAL_DEMO_URL">
+    <img src="https://img.shields.io/badge/DEMO-Club_Portal-111111?style=for-the-badge&logo=vercel&logoColor=FF8C00" />
   </a>
-</div>
-
-<br>
-
-<div align="center">
-  <!-- Top Languages Card with Orange Theme -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF8C00&text_color=ffffff" alt="Top Languages">
+  <br>
+  <a href="YOUR_VIDEO_EDITOR_REPO_URL">
+    <img src="https://img.shields.io/badge/PROJECT-Custom_Video_Editor-FF8C00?style=for-the-badge&logo=github&logoColor=black" />
+  </a>
+  <a href="YOUR_VIDEO_EDITOR_DEMO_URL">
+    <img src="https://img.shields.io/badge/DEMO-Video_Editor-111111?style=for-the-badge&logo=vercel&logoColor=FF8C00" />
+  </a>
 </div>
 
 ---
 
-### 📬 Let's Collaborate
+### 📈 **Dynamic Activity**
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/dinuja-ransara">
-    <img src="https://img.shields.io/badge/Connect_on_LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=FF8C00&labelColor=111111" alt="LinkedIn" />
+  <!-- Dinuja's GitHub Trophies -->
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=your-github-username&theme=radical&column=6&margin-w=15&margin-h=15&no-frame=true&no-bg=true" alt="Dinuja Trophies" />
   </a>
-  <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Send_an_Email-111111?style=for-the-badge&logo=gmail&logoColor=FF8C00&labelColor=111111" alt="Email" />
+  <br>
+  <!-- GitHub Snk Animation on Contribution Graph - You need a specific action for this, but here is the final image -->
+  <!-- Generated via Platane/snk - Ensure this action runs in your profile repository -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/your-github-username/your-github-username/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/your-github-username/your-github-username/output/github-snake.svg">
+    <img src="https://raw.githubusercontent.com/your-github-username/your-github-username/output/github-snake.svg" alt="GitHub Snake" />
+  </picture>
+  <br>
+  <!-- Weekly Commit Bar graph customized to orange -->
+  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF8C00&text_color=FFFFFF&icon_color=FF8C00" alt="GitHub Stats">
+</div>
+
+---
+
+### 📬 Connect With Me
+
+<div align="center">
+  <!-- Motion Buttons with generic placeholders -->
+  <a href="YOUR_LINKEDIN_URL">
+    <img src="https://img.shields.io/badge/LinkedIn-FF8C00?style=for-the-badge&logo=linkedin&logoColor=black" alt="LinkedIn" />
   </a>
-  <a href="https://dinuja-portfolio-nu.vercel.app/projects">
-    <img src="https://img.shields.io/badge/Explore_My_Work-111111?style=for-the-badge&logo=vercel&logoColor=FF8C00&labelColor=111111" alt="Portfolio" />
+  <a href="YOUR_EMAIL_URL">
+    <img src="https://img.shields.io/badge/Email-FF8C00?style=for-the-badge&logo=gmail&logoColor=black" alt="Email" />
+  </a>
+  <a href="YOUR_PORTFOLIO_URL">
+    <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=FF8C00" alt="Portfolio" />
   </a>
 </div>
