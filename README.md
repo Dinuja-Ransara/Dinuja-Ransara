@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- ================= ANIMATED HEADER BANNER ================= -->
-<img src="assets/banner-light-sweep.svg" alt="Banner" width="100%">
+<img src="banner-light-sweep.svg" alt="Banner" width="100%">
 
 <br><br>
 
@@ -43,7 +43,7 @@
 ### **🎯 03 // SKILL PROFICIENCY RINGS**
 
 <div align="center">
-  <img src="assets/skill-rings.svg" alt="Skill Rings" width="100%">
+  <img src="skill-rings.svg" alt="Skill Rings" width="100%">
 </div>
 
 ---
@@ -62,22 +62,11 @@
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Dinuja-Ransara&theme=radical&column=6&margin-w=15&margin-h=15&no-frame=true&no-bg=true&title_color=FF6600" alt="Trophies" />
-
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api?username=Dinuja-Ransara&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6600&text_color=FFFFFF&icon_color=FF6600&ring_color=FF6600" alt="GitHub Stats" height="165">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dinuja-Ransara&theme=radical&hide_border=true&background=0D1117&ring=FF6600&fire=FF6600&currStreakLabel=FF6600" alt="GitHub Streak" height="165">
 
 <br><br>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dinuja-Ransara&theme=react-dark&bg_color=0D1117&color=FF6600&line=FF6600&point=FFFFFF&hide_border=true" alt="Activity Graph" width="100%">
-
-<br><br>
-
-<!-- Animated contribution snake — populated automatically once the
-     included .github/workflows/snake.yml action has run at least once -->
-<img src="https://raw.githubusercontent.com/Dinuja-Ransara/Dinuja-Ransara/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" width="100%">
 
 </div>
 
