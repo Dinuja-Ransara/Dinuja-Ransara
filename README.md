@@ -1,17 +1,18 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Dinuja-Ransara/Dinuja-Ransara/main/Gemini_Generated_Image_yreec0...jpg" alt="Banner" width="100%">
+  <!-- Animated Cyberpunk Banner with Glowing Orange Grid -->
+  <img src="https://capsule-render.vercel.app/api?type=wavy&height=220&color=gradient&customColorList=12,14,16,255,102,0&text=DINUJA%20RANSARA&desc=Computer%20Science%20Undergrad%20|%20Future%20Entrepreneur&fontColor=FF6600&fontSize=32&fontAlignY=38&descSize=15&descAlignY=62&animation=fadeIn" alt="Animated Banner" width="100%">
   
   <br><br>
 
-  <!-- Glitch Effect & Bold Accent Header -->
+  <!-- High-Impact Bold Glitch Header -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=26&pause=1000&color=FF6600&center=true&vCenter=true&width=900&lines=%3E+SYSTEM ONLINE: DINUJA_RANSARA;%3E+FUTURE_ENTREPRENEUR %7C CS_UNDERGRAD;%3E+ARCHITECTING_BACKEND_%2BDIGITAL_CREATION" alt="Glitch Typing" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=28&pause=1000&color=FF6600&center=true&vCenter=true&width=900&lines=%3E+SYSTEM+ONLINE:+DINUJA+RANSARA;%3E+FUTURE+ENTREPRENEUR+%7C+CS+UNDERGRAD;%3E+ARCHITECTING+BACKEND+%2B+DIGITAL+CREATION" alt="Glitch Typing" />
   </a>
 </div>
 
 ---
 
-### **⚡ 01 // SYSTEM_OVERVIEW**
+### **⚡ 01 // SYSTEM OVERVIEW**
 
 > **"Bridging scalable technical infrastructure with high-impact visual storytelling."**
 
@@ -22,7 +23,7 @@
 
 ---
 
-### **💻 02 // CORE_ARCHITECTURES & MISSIONS**
+### **💻 02 // CORE ARCHITECTURES & MISSIONS**
 
 | Module / Project | Technical Scope & Execution | Status / Links |
 | :--- | :--- | :--- |
@@ -32,7 +33,7 @@
 
 ---
 
-### **🛠️ 03 // TECH_STACK_MATRIX**
+### **🛠️ 03 // TECH STACK MATRIX**
 
 <div align="center">
   <!-- Minimalist High-Contrast Icon Grid -->
@@ -43,7 +44,7 @@
 
 ---
 
-### **📊 04 // LIVE_TELEMETRY & ACTIVITY**
+### **📊 04 // LIVE TELEMETRY & ACTIVITY**
 
 <div align="center">
   <!-- Orange Highlighted Trophies -->
@@ -60,11 +61,11 @@
 ---
 
 <div align="center">
-  <h3><b>🌐 05 // ESTABLISH_CONNECTION</b></h3>
+  <h3><b>🌐 05 // ESTABLISH CONNECTION</b></h3>
 
   <br>
 
-  <!-- Modern Orange Pill Button matching your requested style -->
+  <!-- Modern Orange Pill Button -->
   <a href="https://www.linkedin.com/in/dinuja-ransara">
     <img src="https://img.shields.io/badge/Let's_talk-FF6600?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=FF6600" alt="Let's Talk LinkedIn" />
   </a>
