@@ -41,13 +41,9 @@
 
 <div align="center">
 
-![Java](https://img.shields.io/badge/Java-FF6600?style=for-the-badge&logo=java&logoColor=black)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-FF6600?style=for-the-badge&logo=springboot&logoColor=black)
-![GCP](https://img.shields.io/badge/GCP-FF6600?style=for-the-badge&logo=googlecloud&logoColor=black)
-![Firebase](https://img.shields.io/badge/Firebase-FF6600?style=for-the-badge&logo=firebase&logoColor=black)
-![Git](https://img.shields.io/badge/Git-FF6600?style=for-the-badge&logo=git&logoColor=black)
-![Figma](https://img.shields.io/badge/Figma-FF6600?style=for-the-badge&logo=figma&logoColor=black)
-![Adobe Creative Cloud](https://img.shields.io/badge/Adobe_CC-FF6600?style=for-the-badge&logo=adobecreativecloud&logoColor=black)
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=java,spring,gcp,firebase,git,figma,adobecreativecloud&theme=dark" alt="Tech Stack" />
+</a>
 
 </div>
 
@@ -57,7 +53,7 @@
 
 <div align="center">
 
-![Dinuja's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dinuja-Ransara&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6600&text_color=FFFFFF&icon_color=FF6600&ring_color=FF6600)
+<img src="https://github-readme-stats.vercel.app/api?username=Dinuja-Ransara&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6600&text_color=FFFFFF&icon_color=FF6600&ring_color=FF6600" alt="GitHub Stats">
 
 </div>
 
