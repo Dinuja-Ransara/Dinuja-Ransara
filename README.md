@@ -3,36 +3,26 @@
   
   <br><br>
 
-  <!-- Futuristic Glowing Command Center Bar -->
-  <a href="https://dinuja-portfolio-nu.vercel.app/projects">
-    <img src="https://img.shields.io/badge/SYSTEM_STATUS:_ONLINE_|_EXPLORE_PORTFOLIO-0D1117?style=for-the-badge&logo=icloud&logoColor=00FF66&labelColor=0D1117" alt="Status" />
-  </a>
-  <a href="https://www.linkedin.com/in/dinuja-ransara">
-    <img src="https://img.shields.io/badge/SECURE_LINK:_LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=00FF66&labelColor=0D1117" alt="LinkedIn" />
-  </a>
-
-  <br><br>
-
-  <!-- Live Terminal Typing Simulation -->
+  <!-- Glitch Effect & Bold Accent Header -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00FF66&center=true&vCenter=true&width=850&lines=%3E+INITIALIZING_DINUJA_RANSARA_PROFILE...;%3E+ROLE:_COMPUTER_SCIENCE_UNDERGRADUATE_%7C_NSBM;%3E+VISION:_FUTURE_ENTREPRENEUR_%7C_ARCHITECT;%3E+EXECUTION:_BACKEND_SYSTEMS_%2B_DIGITAL_CREATION" alt="Terminal Typing" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=26&pause=1000&color=FF6600&center=true&vCenter=true&width=900&lines=%3E+_SYSTEM_ONLINE:_DINUJA_RANSARA;%3E+_FUTURE_ENTREPRENEUR_%7C_CS_UNDERGRAD;%3E+_ARCHITECTING_BACKEND_%2B_DIGITAL_CREATION" alt="Glitch Typing" />
   </a>
 </div>
 
 ---
 
-### ⚡ 01 // SYSTEM_OVERVIEW
+### **⚡ 01 // SYSTEM_OVERVIEW**
 
 > **"Bridging scalable technical infrastructure with high-impact visual storytelling."**
 
-*   **Academic Base:** Computer Science Undergraduate at **NSBM Green University** (Faculty of Computing).
-*   **Leadership Core:** President of the **NFORCE Club**, orchestrating high-tech enterprise events and mandatory leadership frameworks.
-*   **Creative Engine:** Founder & Lead Designer at **Idis Graphix**, pushing past generic templates to build custom digital experiences.
-*   **Philosophy:** Functioning as a live **"Knowledge Share Bank"** to elevate fellow developers and tech pioneers.
+*   **ACADEMIC CORE:** Computer Science Undergraduate at **NSBM Green University** (Faculty of Computing).
+*   **LEADERSHIP ROLE:** President of the **NFORCE Club**, orchestrating high-tech enterprise events and strategic board frameworks.
+*   **CREATIVE ENGINE:** Founder & Lead Designer at **Idis Graphix**, breaking standard frames to build custom digital experiences.
+*   **VISION:** Functioning as a live **"Knowledge Share Bank"** to elevate fellow developers and tech pioneers.
 
 ---
 
-### 💻 02 // CORE_ARCHITECTURES & MISSIONS
+### **💻 02 // CORE_ARCHITECTURES & MISSIONS**
 
 | Module / Project | Technical Scope & Execution | Status / Links |
 | :--- | :--- | :--- |
@@ -42,10 +32,10 @@
 
 ---
 
-### 🛠️ 03 // TECH_STACK_MATRIX
+### **🛠️ 03 // TECH_STACK_MATRIX**
 
 <div align="center">
-  <!-- Futuristic Minimalist Icon Grid -->
+  <!-- Minimalist High-Contrast Icon Grid -->
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,spring,gcp,firebase,linux,git,github,figma,ps,pr,ae,ai&theme=dark" alt="Tech Stack" />
   </a>
@@ -53,32 +43,35 @@
 
 ---
 
-### 📊 04 // LIVE_TELEMETRY & ACTIVITY
+### **📊 04 // LIVE_TELEMETRY & ACTIVITY**
 
 <div align="center">
-  <!-- Neon Highlighted Trophies -->
+  <!-- Orange Highlighted Trophies -->
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Dinuja-Ransara&theme=radical&column=6&margin-w=15&margin-h=15&no-frame=true&no-bg=true&title_color=00FF66" alt="Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=Dinuja-Ransara&theme=radical&column=6&margin-w=15&margin-h=15&no-frame=true&no-bg=true&title_color=FF6600" alt="Trophies" />
   </a>
 
   <br><br>
 
-  <!-- Futuristic Matrix Stats Display -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Dinuja-Ransara&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF66&text_color=FFFFFF&icon_color=00FF66&ring_color=00FF66" alt="GitHub Stats">
+  <!-- Orange Highlighted Stats Display -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Dinuja-Ransara&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6600&text_color=FFFFFF&icon_color=FF6600&ring_color=FF6600" alt="GitHub Stats">
 </div>
 
 ---
 
 <div align="center">
-  <h3>🌐 05 // ESTABLISH_CONNECTION</h3>
+  <h3><b>🌐 05 // ESTABLISH_CONNECTION</b></h3>
 
+  <br>
+
+  <!-- Modern Orange Pill Button matching your requested style -->
   <a href="https://www.linkedin.com/in/dinuja-ransara">
-    <img src="https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=00FF66&labelColor=0D1117" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/Let's_talk-FF6600?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=FF6600" alt="Let's Talk LinkedIn" />
   </a>
   <a href="mailto:dinuja.ransara@gmail.com">
-    <img src="https://img.shields.io/badge/SECURE_EMAIL-0D1117?style=for-the-badge&logo=gmail&logoColor=00FF66&labelColor=0D1117" alt="Email" />
+    <img src="https://img.shields.io/badge/Secure_Email-FF6600?style=for-the-badge&logo=gmail&logoColor=white&labelColor=FF6600" alt="Email" />
   </a>
   <a href="https://dinuja-portfolio-nu.vercel.app/projects">
-    <img src="https://img.shields.io/badge/PORTFOLIO_HUB-0D1117?style=for-the-badge&logo=vercel&logoColor=00FF66&labelColor=0D1117" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio_Hub-FF6600?style=for-the-badge&logo=vercel&logoColor=white&labelColor=FF6600" alt="Portfolio" />
   </a>
 </div>
