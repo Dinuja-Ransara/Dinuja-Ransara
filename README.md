@@ -19,7 +19,7 @@
 
 ---
 
-### **⚡SYSTEM OVERVIEW **
+### **⚡SYSTEM OVERVIEW**
 
 > **"Bridging scalable technical infrastructure with high-impact visual storytelling."**
 
