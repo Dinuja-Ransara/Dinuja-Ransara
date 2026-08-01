@@ -22,7 +22,7 @@
   <!-- SPRING BOOT 85% -->
   <g transform="translate(225,100)">
     <circle r="42" fill="none" stroke="#1f1f1f" stroke-width="10"/>
-    <circle r="42" fill="none" stroke="#FF6600" stroke-width="10" stroke-linecap="round"
+    <circle r="42" fill="none" stroke="#BEF527" stroke-width="10" stroke-linecap="round"
       transform="rotate(-90)" stroke-dasharray="263.89" stroke-dashoffset="263.89">
       <animate attributeName="stroke-dashoffset" from="263.89" to="39.58" dur="1.6s" fill="freeze" begin="0.25s"/>
     </circle>
@@ -33,7 +33,7 @@
   <!-- PROBLEM SOLVING 92% -->
   <g transform="translate(375,100)">
     <circle r="42" fill="none" stroke="#1f1f1f" stroke-width="10"/>
-    <circle r="42" fill="none" stroke="#FF6600" stroke-width="10" stroke-linecap="round"
+    <circle r="42" fill="none" stroke="#BEF527" stroke-width="10" stroke-linecap="round"
       transform="rotate(-90)" stroke-dasharray="263.89" stroke-dashoffset="263.89">
       <animate attributeName="stroke-dashoffset" from="263.89" to="21.11" dur="1.6s" fill="freeze" begin="0.4s"/>
     </circle>
@@ -44,7 +44,7 @@
   <!-- GCP 72% -->
   <g transform="translate(525,100)">
     <circle r="42" fill="none" stroke="#1f1f1f" stroke-width="10"/>
-    <circle r="42" fill="none" stroke="#FF6600" stroke-width="10" stroke-linecap="round"
+    <circle r="42" fill="none" stroke="#BEF527" stroke-width="10" stroke-linecap="round"
       transform="rotate(-90)" stroke-dasharray="263.89" stroke-dashoffset="263.89">
       <animate attributeName="stroke-dashoffset" from="263.89" to="73.89" dur="1.6s" fill="freeze" begin="0.55s"/>
     </circle>
@@ -55,7 +55,7 @@
   <!-- LEADERSHIP 90% -->
   <g transform="translate(675,100)">
     <circle r="42" fill="none" stroke="#1f1f1f" stroke-width="10"/>
-    <circle r="42" fill="none" stroke="#FF6600" stroke-width="10" stroke-linecap="round"
+    <circle r="42" fill="none" stroke="#BEF527" stroke-width="10" stroke-linecap="round"
       transform="rotate(-90)" stroke-dasharray="263.89" stroke-dashoffset="263.89">
       <animate attributeName="stroke-dashoffset" from="263.89" to="26.39" dur="1.6s" fill="freeze" begin="0.7s"/>
     </circle>
@@ -66,7 +66,7 @@
   <!-- DESIGN 86% -->
   <g transform="translate(825,100)">
     <circle r="42" fill="none" stroke="#1f1f1f" stroke-width="10"/>
-    <circle r="42" fill="none" stroke="#FF6600" stroke-width="10" stroke-linecap="round"
+    <circle r="42" fill="none" stroke="#BEF527" stroke-width="10" stroke-linecap="round"
       transform="rotate(-90)" stroke-dasharray="263.89" stroke-dashoffset="263.89">
       <animate attributeName="stroke-dashoffset" from="263.89" to="36.95" dur="1.6s" fill="freeze" begin="0.85s"/>
     </circle>
