@@ -11,7 +11,7 @@
   <!-- JAVA 88% -->
   <g transform="translate(75,100)">
     <circle r="42" fill="none" stroke="#1f1f1f" stroke-width="10"/>
-    <circle r="42" fill="none" stroke="#FF6600" stroke-width="10" stroke-linecap="round"
+    <circle r="42" fill="none" stroke="#BEF527" stroke-width="10" stroke-linecap="round"
       transform="rotate(-90)" stroke-dasharray="263.89" stroke-dashoffset="263.89">
       <animate attributeName="stroke-dashoffset" from="263.89" to="31.67" dur="1.6s" fill="freeze" begin="0.1s"/>
     </circle>
