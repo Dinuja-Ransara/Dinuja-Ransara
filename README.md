@@ -12,7 +12,7 @@
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=Dinuja-Ransara&style=for-the-badge&color=B0F527&label=PROFILE+VIEWS" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=Dinuja-Ransara&style=for-the-badge&color=ff6600&label=PROFILE+VIEWS" alt="Profile Views"/>
 <img src="https://img.shields.io/badge/STATUS-ONLINE-FF6600?style=for-the-badge&labelColor=0D1117" alt="Status"/>
 
 </div>
