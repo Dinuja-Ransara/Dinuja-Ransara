@@ -7,7 +7,7 @@
 
 <!-- ================= TYPING / GLITCH LINE ================= -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=28&pause=1000&color=FF6600&center=true&vCenter=true&width=900&lines=%3E+SYSTEM+ONLINE%3A+DINUJA+RANSARA;%3E+FUTURE+ENTREPRENEUR+%7C+CS+UNDERGRAD;%3E+ARCHITECTING+BACKEND+%2B+DIGITAL+CREATION" alt="Glitch Typing" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=28&pause=1000&color=71BF19&center=true&vCenter=true&width=900&lines=%3E+SYSTEM+ONLINE%3A+DINUJA+RANSARA;%3E+FUTURE+ENTREPRENEUR+%7C+CS+UNDERGRAD;%3E+ARCHITECTING+BACKEND+%2B+DIGITAL+CREATION" alt="Glitch Typing" />
 </a>
 
 <br>
