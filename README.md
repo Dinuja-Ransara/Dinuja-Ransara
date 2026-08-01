@@ -19,7 +19,7 @@
 
 ---
 
-### **⚡SYSTEM OVERVIEW**
+### **SYSTEM OVERVIEW**
 
 > **"Bridging scalable technical infrastructure with high-impact visual storytelling."**
 
@@ -30,7 +30,7 @@
 
 ---
 
-### **💻 CORE ARCHITECTURES & MISSIONS**
+### **CORE ARCHITECTURES & MISSIONS**
 
 | Module / Project | Technical Scope & Execution | Status / Links |
 | :--- | :--- | :--- |
@@ -40,7 +40,7 @@
 
 ---
 
-### **🎯 SKILL PROFICIENCY**
+### **SKILL PROFICIENCY**
 
 <div align="center">
   <img src="assets/skill-rings.svg" alt="Skill Rings" width="100%">
@@ -48,7 +48,7 @@
 
 ---
 
-### **🛠️ TECH STACK**
+### **TECH STACK**
 
 <div align="center">
   <a href="https://skillicons.dev">
@@ -58,7 +58,7 @@
 
 ---
 
-### **📊 LIVE TELEMETRY & ACTIVITY**
+### **LIVE TELEMETRY & ACTIVITY**
 
 <div align="center">
 
@@ -74,7 +74,7 @@
 
 <div align="center">
 
-### **🌐 ESTABLISH CONTACTS**
+### **ESTABLISH CONTACTS**
 
 <br>
 
