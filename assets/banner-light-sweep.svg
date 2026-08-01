@@ -30,7 +30,7 @@
   </g>
 
   <!-- corner brackets -->
-  <g stroke="#FF6600" stroke-width="2" fill="none" opacity="0.8">
+  <g stroke="#71BF19" stroke-width="2" fill="none" opacity="0.8">
     <path d="M18,18 L18,42 M18,18 L42,18"/>
     <path d="M882,18 L882,42 M882,18 L858,18"/>
     <path d="M18,202 L18,178 M18,202 L42,202"/>
