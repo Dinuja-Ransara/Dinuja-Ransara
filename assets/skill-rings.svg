@@ -2,7 +2,7 @@
   <defs>
     <style>
       .label { font-family: 'Fira Code', monospace; font-weight: 900; fill: #FFFFFF; }
-      .pct   { font-family: 'Fira Code', monospace; font-weight: 900; fill: #FF6600; }
+      .pct   { font-family: 'Fira Code', monospace; font-weight: 900; fill: #FFFFFF; }
     </style>
   </defs>
 
