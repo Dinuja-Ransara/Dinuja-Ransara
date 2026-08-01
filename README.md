@@ -62,11 +62,11 @@
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Dinuja-Ransara&theme=radical&hide_border=true&background=0D1117&ring=FF6600&fire=FF6600&currStreakLabel=FF6600" alt="GitHub Streak" height="165">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Dinuja-Ransara&theme=radical&hide_border=true&background=0D1117&ring=71BF19&fire=71BF19&currStreakLabel=71BF19" alt="GitHub Streak" height="165">
 
 <br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Dinuja-Ransara&theme=react-dark&bg_color=0D1117&color=FF6600&line=FF6600&point=FFFFFF&hide_border=true" alt="Activity Graph" width="100%">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Dinuja-Ransara&theme=react-dark&bg_color=0D1117&color=71BF19&line=71BF19&point=FFFFFF&hide_border=true" alt="Activity Graph" width="100%">
 
 </div>
 
