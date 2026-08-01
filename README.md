@@ -79,13 +79,13 @@
 <br>
 
 <a href="https://www.linkedin.com/in/dinuja-ransara">
-  <img src="https://img.shields.io/badge/Let's_talk-FF6600?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=FF6600" alt="Let's Talk LinkedIn" />
+  <img src="https://img.shields.io/badge/Let's_talk-71BF19?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=71BF19" alt="Let's Talk LinkedIn" />
 </a>
 <a href="mailto:dinuja.ransara@gmail.com">
-  <img src="https://img.shields.io/badge/Secure_Email-FF6600?style=for-the-badge&logo=gmail&logoColor=white&labelColor=FF6600" alt="Email" />
+  <img src="https://img.shields.io/badge/Secure_Email-71BF19?style=for-the-badge&logo=gmail&logoColor=white&labelColor=71BF19" alt="Email" />
 </a>
 <a href="https://dinuja-portfolio-nu.vercel.app/projects">
-  <img src="https://img.shields.io/badge/Portfolio_Hub-FF6600?style=for-the-badge&logo=vercel&logoColor=white&labelColor=FF6600" alt="Portfolio" />
+  <img src="https://img.shields.io/badge/Portfolio_Hub-71BF19?style=for-the-badge&logo=vercel&logoColor=white&labelColor=71BF19" alt="Portfolio" />
 </a>
 
 </div>
