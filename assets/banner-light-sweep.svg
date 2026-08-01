@@ -6,11 +6,11 @@
     </linearGradient>
 
     <linearGradient id="sweepGrad" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0%"  stop-color="#FF6600" stop-opacity="0"/>
-      <stop offset="42%" stop-color="#FF6600" stop-opacity="0"/>
+      <stop offset="0%"  stop-color="#71BF19" stop-opacity="0"/>
+      <stop offset="42%" stop-color="#71BF19" stop-opacity="0"/>
       <stop offset="50%" stop-color="#FFFFFF" stop-opacity="0.95"/>
-      <stop offset="58%" stop-color="#FF6600" stop-opacity="0"/>
-      <stop offset="100%" stop-color="#FF6600" stop-opacity="0"/>
+      <stop offset="58%" stop-color="#71BF19" stop-opacity="0"/>
+      <stop offset="100%" stop-color="#71BF19" stop-opacity="0"/>
       <animateTransform attributeName="gradientTransform" type="translate"
         from="-1 0" to="2 0" dur="3s" repeatCount="indefinite"/>
     </linearGradient>
@@ -38,7 +38,7 @@
   </g>
 
   <!-- base text -->
-  <text x="450" y="118" font-family="'Fira Code', monospace" font-size="52" font-weight="900" text-anchor="middle" fill="#FF6600">DINUJA RANSARA</text>
+  <text x="450" y="118" font-family="'Fira Code', monospace" font-size="52" font-weight="900" text-anchor="middle" fill="#71BF19">DINUJA RANSARA</text>
 
   <!-- light sweep clipped to the text shape -->
   <text x="450" y="118" font-family="'Fira Code', monospace" font-size="52" font-weight="900" text-anchor="middle" fill="url(#sweepGrad)" clip-path="url(#textClip)">DINUJA RANSARA</text>
