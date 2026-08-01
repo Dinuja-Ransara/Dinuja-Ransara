@@ -12,8 +12,8 @@
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=Dinuja-Ransara&style=for-the-badge&color=71BF19&label=PROFILE+VIEWS" alt="Profile Views"/>
-<img src="https://img.shields.io/badge/STATUS-ONLINE-71BF19?style=for-the-badge&labelColor=0D1117" alt="Status"/>
+<img src="https://komarev.com/ghpvc/?username=Dinuja-Ransara&style=for-the-badge&color=539409&label=PROFILE+VIEWS" alt="Profile Views"/>
+<img src="https://img.shields.io/badge/STATUS-ONLINE-539409?style=for-the-badge&labelColor=0D1117" alt="Status"/>
 
 </div>
 
